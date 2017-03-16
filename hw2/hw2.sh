@@ -1,0 +1,27 @@
+sh run.med.keras.sh 
+
+echo 3 FOLD CROSS VALIDATION RESULT \(MAP\)
+
+echo P001: 0.7431
+echo P002: 0.9271
+echo P003: 0.5458
+
+echo 3 FOLD CROSS VALIDATION RESULT \(CLASS ACCURACY\)
+
+echo P001: 0.9620
+echo P002: 0.9903
+echo P003: 0.9523
+
+echo 3 FOLD CROSS VALIDATION RESULT \(TRUE POSITIVE RATE\) Recall 
+
+echo P001: 0.1468
+echo P002: 0.0456
+echo P003: 0
+
+echo 3 FOLD CROSS VALIDATION RESULT \(TRUE NEGATIVE RATE\) True negative div all actual negative
+
+echo P001: 1
+echo P002: 1
+echo P003: 1
+
+

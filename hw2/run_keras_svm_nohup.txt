@@ -1,0 +1,198 @@
+#####################################
+#       MED with KERAS Features    #
+#####################################
+Event P001 Round 
+100
+200
+300
+400
+500
+600
+700
+800
+Data loading finished positive 39 negative 785
+SVM trained successfully for event P001! round num 0
+100
+200
+300
+400
+avg_keras CLASS ACCURACY: 0.978155339806
+avg_keras MAP: 0.745212
+Event P001 Round 
+100
+200
+300
+400
+500
+600
+700
+800
+Data loading finished positive 30 negative 794
+SVM trained successfully for event P001! round num 1
+100
+200
+300
+400
+avg_keras CLASS ACCURACY: 0.956310679612
+avg_keras MAP: 0.652274
+Event P001 Round 
+100
+200
+300
+400
+500
+600
+700
+800
+Data loading finished positive 30 negative 794
+SVM trained successfully for event P001! round num 2
+100
+200
+300
+400
+avg_keras CLASS ACCURACY: 0.95145631068
+avg_keras MAP: 0.829034
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+Data loading finished positive 51 negative 1072
+SVM trained successfully for event P001! round num all
+Event P002 Round 
+100
+200
+300
+400
+500
+600
+700
+800
+Data loading finished positive 43 negative 781
+SVM trained successfully for event P002! round num 0
+100
+200
+300
+400
+avg_keras CLASS ACCURACY: 0.995145631068
+avg_keras MAP: 0.980519
+Event P002 Round 
+100
+200
+300
+400
+500
+600
+700
+800
+Data loading finished positive 32 negative 792
+SVM trained successfully for event P002! round num 1
+100
+200
+300
+400
+avg_keras CLASS ACCURACY: 0.990291262136
+avg_keras MAP: 1
+Event P002 Round 
+100
+200
+300
+400
+500
+600
+700
+800
+Data loading finished positive 39 negative 785
+SVM trained successfully for event P002! round num 2
+100
+200
+300
+400
+avg_keras CLASS ACCURACY: 0.985436893204
+avg_keras MAP: 0.80083
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+Data loading finished positive 54 negative 1072
+SVM trained successfully for event P002! round num all
+Event P003 Round 
+100
+200
+300
+400
+500
+600
+700
+800
+Data loading finished positive 40 negative 784
+SVM trained successfully for event P003! round num 0
+100
+200
+300
+400
+avg_keras CLASS ACCURACY: 0.953883495146
+avg_keras MAP: 0.612601
+Event P003 Round 
+100
+200
+300
+400
+500
+600
+700
+800
+Data loading finished positive 41 negative 783
+SVM trained successfully for event P003! round num 1
+100
+200
+300
+400
+avg_keras CLASS ACCURACY: 0.956310679612
+avg_keras MAP: 0.481624
+Event P003 Round 
+100
+200
+300
+400
+500
+600
+700
+800
+Data loading finished positive 37 negative 787
+SVM trained successfully for event P003! round num 2
+100
+200
+300
+400
+avg_keras CLASS ACCURACY: 0.946601941748
+avg_keras MAP: 0.543084
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+Data loading finished positive 59 negative 1072
+SVM trained successfully for event P003! round num all

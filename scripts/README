@@ -1,0 +1,10 @@
+python scripts/create_kmeans.py kmeans.${cluster_num}.model $cluster_num list/all.video
+python scripts/create_asrfeat.py vocab list/all.video
+
+
+
+python scripts/create_asrfeat_modified.py list/all.video 983 tfidf|| exit 1;
+
+
+
+
